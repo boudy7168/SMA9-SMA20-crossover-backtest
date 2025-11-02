@@ -34,7 +34,7 @@ buy=(df["signal"]==1)&(df["signal"].shift(1)<=0)
 sell=(df["signal"]==-1)&(df["signal"].shift(1)>=0)
 plt.scatter(df.index[buy], df["Close"][buy], marker="^", color="green",label="Buy", s=60)
 plt.scatter(df.index[sell], df["Close"][sell], marker="v", color="red",label="Sell", s=60)
-plt.title("AAPL SM9/SMA20 crossover")
+plt.title("AAPL SMA9/SMA20 crossover")
 plt.legend()
 plt.grid(True)
 plt.show
