@@ -1,4 +1,5 @@
-<img width="831" height="449" alt="image" src="https://github.com/user-attachments/assets/ebe86e13-390f-47ad-be3a-e63e865c51fa" />
+<img width="831" height="449" alt="image" src="https://github.com/user-attachments/assets/673928ba-6760-4e64-a8cc-df4c3aa696ee" />
+
 
 Total Return: 20.46% from 2023-01-01 to 2025-10-20
 
